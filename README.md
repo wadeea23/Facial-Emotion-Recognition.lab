@@ -36,8 +36,8 @@ The model uses a Sequential Neural Network with the following layers:
 
 The model was evaluated using the test dataset.
 
-- **Test Accuracy:** 36.75%
-- **Test Loss:** 4.7081
+- **Test Accuracy:** 38.39%
+- **Test Loss:** 3.8
 
 The results show that the model can classify facial emotions, but its accuracy is limited and some predictions may be incorrect.
 
