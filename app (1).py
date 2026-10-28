@@ -8,7 +8,7 @@ from tensorflow.keras.models import load_model
 # Load model and emotion names
 model = load_model("emotion_model.keras")
 
-with open("emotion_classes(1).json", "r") as f:
+with open("emotion_classes (1).json", "r") as f:
     classes = json.load(f)
 
 # App title
