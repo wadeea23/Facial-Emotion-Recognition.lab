@@ -41,7 +41,7 @@ The model was evaluated using the test dataset.
 
 The results show that the model can classify facial emotions, but its accuracy is limited and some predictions may be incorrect.
 
-## 5. Ethics and Limitations
+## 5. Limitations
 
 - **Lighting:** Poor lighting may affect the prediction.
 - **Image Quality:** Blurry images or different face angles may reduce accuracy.
