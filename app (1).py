@@ -6,9 +6,9 @@ from PIL import Image
 from tensorflow.keras.models import load_model
 
 # Load model and emotion names
-model = load_model("/content/emotion_model.keras")
+model = load_model("emotion_model.keras")
 
-with open("/content/emotion_classes.json", "r") as f:
+with open("emotion_classes.json", "r") as f:
     classes = json.load(f)
 
 # App title
